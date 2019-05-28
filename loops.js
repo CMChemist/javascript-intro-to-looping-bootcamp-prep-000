@@ -8,7 +8,7 @@ function forLoop(localArray) {
   }
   return localArray
 }
-/*
+
 function whileLoop (number) {
   while (number > 0){
     console.log(--number)
@@ -16,7 +16,7 @@ function whileLoop (number) {
   return 'done'
 }
 
-
+/*
 function incrementVariable() {
   i = i + 1;
   return i;
